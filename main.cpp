@@ -20,7 +20,7 @@ int main()
 
 	fstream fin;
 
-	fin.open(".preferences.txt");
+	fin.open("preferences.txt");
 
 	cout << "Maxim Pochinskiy - Traffic Calculator 1.0 - 29.10.20\n" << endl;
 
